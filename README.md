@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on meta it learning.<br>I'm looking to collaborate on AI and Fullstack<br>I'm currently learning mern stack<br>Ask me about<br>Fun fact
+I'm currently working on meta it learning.<br>I'm looking to collaborate on AI and Fullstack<br>I'm currently learning mern stack<br>
 
 
 # 💻 Tech Stack:
